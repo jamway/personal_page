@@ -1,0 +1,11 @@
+title: My Personal Page
+author: Jamway
+description: >-
+  A clean, simple, and material-designed Jekyll theme.
+
+# social links
+github_username:  jamway
+
+show_excerpts: true
+
+theme: jekyll-theme-material
