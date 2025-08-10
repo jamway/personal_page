@@ -20,6 +20,7 @@ GEM
     extras (0.3.0)
       forwardable-extended (~> 2.5)
     fastimage (2.4.0)
+    ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x86_64-darwin)
     forwardable-extended (2.6.0)
@@ -91,6 +92,8 @@ GEM
       racc (~> 1.4)
     nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
+    nokogiri (1.13.10-x86_64-linux)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (5.1.1)
@@ -119,6 +122,7 @@ GEM
 
 PLATFORMS
   universal-darwin-23
+  x86_64-linux
 
 DEPENDENCIES
   jekyll-material-theme
